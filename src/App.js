@@ -18,8 +18,10 @@ function App() {
         >
           Learn React
 
-        </a><h1>This will be hosted properly.</h1>
-      </header>
+        </a>
+        <h1>This will be hosted properly.</h1><p>This worked fine.</p>
+
+      </header> 
     </div>
   );
 }
